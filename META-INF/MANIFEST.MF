@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: TestNG
+Specification-Version: 7.6.1
+Specification-Vendor: TestNG
+Implementation-Title: TestNG
+Implementation-Version: 7.6.1
+Implementation-Vendor: TestNG
+Implementation-Vendor-Id: org.testng
+Implementation-Url: https://testng.org
+
